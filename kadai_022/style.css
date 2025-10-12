@@ -79,6 +79,7 @@ a:hover {
   }
   
   #parent{
-    display: block;
+    flex-direction: columns;
   }
 }
+
